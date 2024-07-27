@@ -14,7 +14,7 @@ export default function Contact() {
     >
       <Helmet>
         <title>Contact</title>
-        <meta name="description" content="To contact Lilian" />
+        <meta name="description" content="To contact Amina" />
         <link rel="canonical" href="/contact" />
       </Helmet>
       <Header/>

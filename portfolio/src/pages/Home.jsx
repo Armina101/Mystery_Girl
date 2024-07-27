@@ -104,14 +104,14 @@ export default function Home() {
           </div>
           <div className="grid">
             <div className="column">
-              <h4 className="textTitle">Say Hello</h4>
+              <h4 className="textTitle">Say Hi</h4>
             </div>
             <div className="column">
               <div className="grid">
                 <div className="column">
                   <div className="labels">
                     <div className="labelTitle">Email</div>
-                    <div className="labelValue"><a href="mailto:Lilianokeke.ca@gmail.com">Lilianokeke.ca@gmail.com</a>
+                    <div className="labelValue"><a href="mailto:Afolabijolayemi@gmail.com">Afolabijolayemi@gmail.com</a>
                     </div>
                   </div>
                 </div>
