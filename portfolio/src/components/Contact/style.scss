@@ -1,0 +1,25 @@
+.contactSection{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem auto;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: center;
+    width: 90%;
+    
+    @media screen and (min-width: 768px){
+        margin: 4rem auto 2rem;
+        width: 35rem;
+    }
+
+    .coloredText{
+        color: var(--purple);
+    }
+    
+    .socialLinks{
+        display: flex;
+        width: 8rem;
+        justify-content: space-between;
+        margin-top: .75rem;
+    }
+}
